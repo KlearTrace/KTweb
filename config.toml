@@ -1,5 +1,7 @@
 # Site settings
-baseURL = "https://www.kleartrace1.github.io/"
+baseURL = "."
+relativeURLs = true
+uglyURLs = true
 languageCode = "en-us"
 title = "Kleartrace"
 theme = "forty"
