@@ -190,27 +190,17 @@ disqusShortname = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com"
+      url= "https://www.twitter.com/kleartrace"
       label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/kleartrace"
       label = "Facebook"
 
     [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
-    
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
-
-    [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "#"
       label = "LinkedIn"
 
 
