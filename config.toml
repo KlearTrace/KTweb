@@ -7,7 +7,7 @@ title = "Kleartrace"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-122745449-1"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
