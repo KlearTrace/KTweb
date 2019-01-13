@@ -82,7 +82,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, we are Kleatrace!"
+    title = "Hi, we are Kleartrace!"
     subtitle = "Your solution to improved traceability, FSMA compliance and reduced spoilage in the food and drug supply chain"
     buttonText = "Get Started"
 
